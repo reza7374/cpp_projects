@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mandel.dir/mandelbrot.cpp.o -o mandel  -L/usr/lib/x86_64-linux-gnu  -lSDL2 
