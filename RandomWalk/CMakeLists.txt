@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(cpp_projects)
+project(RandomWalk)
 
 # Find SDL2 package
 find_package(SDL2 REQUIRED)
@@ -9,7 +9,7 @@ find_package(SDL2 REQUIRED)
 include_directories(${SDL2_INCLUDE_DIRS})
 
 # Add your source files
-add_executable(mandel mandelbrot.cpp)
+add_executable(rw main.cpp)
 
 # Link against SDL2 library
-target_link_libraries(mandel ${SDL2_LIBRARIES})
+target_link_libraries(rw ${SDL2_LIBRARIES})

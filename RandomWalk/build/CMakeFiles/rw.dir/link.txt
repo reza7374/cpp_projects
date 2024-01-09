@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/rw.dir/main.cpp.o -o rw  -L/usr/lib/x86_64-linux-gnu  -lSDL2 
