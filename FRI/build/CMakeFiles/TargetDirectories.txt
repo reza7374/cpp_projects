@@ -1,0 +1,3 @@
+/home/reza/software/cpp_projects/FRI/build/CMakeFiles/band.dir
+/home/reza/software/cpp_projects/FRI/build/CMakeFiles/edit_cache.dir
+/home/reza/software/cpp_projects/FRI/build/CMakeFiles/rebuild_cache.dir

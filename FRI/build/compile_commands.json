@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/reza/software/cpp_projects/FRI/build",
+  "command": "/usr/bin/c++ -DBOOST_ALL_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -isystem /usr/include/opencv4 -g -o CMakeFiles/band.dir/main.cpp.o -c /home/reza/software/cpp_projects/FRI/main.cpp",
+  "file": "/home/reza/software/cpp_projects/FRI/main.cpp"
+}
+]
